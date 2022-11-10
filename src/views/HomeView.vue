@@ -14,11 +14,11 @@ useMeta({
     <v-responsive class="d-flex align-center text-center">
       <div class="align-center mb-5" style="display: inline-flex;">
         <div class="ma-4">
-          <v-img width="100" :aspect-ratio="1" src="src/assets/logo.svg"></v-img>
+          <v-img width="100" :aspect-ratio="1" src="logo.svg"></v-img>
         </div>
         <div class="text-h4 text-blue-accent-1">+</div>
         <div class="ma-4">
-          <v-img width="100" :aspect-ratio="1" src="src/assets/512x512.png"></v-img>
+          <v-img width="100" :aspect-ratio="1" src="512x512.png"></v-img>
         </div>
       </div>
       <h1 class="text-h3 font-weight-bold">Vuetify 3 - Testing</h1>

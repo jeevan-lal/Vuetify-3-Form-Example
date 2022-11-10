@@ -1,1 +1,0 @@
-import{A as c,aI as n,D as r,aJ as _,E as d}from"./index.1a2cdcaa.js";const f=(t,e)=>{const o=t.__vccOpts||t;for(const[a,s]of e)o[a]=s;return o},l={},i=d("p",{class:"text-h2 font-weight-bold text-red"},"Page Not Found!",-1);function h(t,e){return c(),n(_,{class:"fill-height"},{default:r(()=>[i]),_:1})}const p=f(l,[["render",h]]);export{p as default};
